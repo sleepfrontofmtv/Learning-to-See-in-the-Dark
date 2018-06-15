@@ -1,3 +1,7 @@
+# REDCODE Support
+This is forked from cchen156/[Learning-to-See-in-the-Dark](https://github.com/cchen156/Learning-to-See-in-the-Dark) to support REDCODE, Helium S35
+
+
 # Learning-to-See-in-the-Dark
 
 This is a Tensorflow implementation of Learning to See in the Dark in CVPR 2018, by [Chen Chen](http://cchen156.web.engr.illinois.edu/), [Qifeng Chen](http://cqf.io/), [Jia Xu](http://pages.cs.wisc.edu/~jiaxu/), and [Vladlen Koltun](http://vladlen.info/).  
